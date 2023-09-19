@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijayalakshmi4444
+- 👋 Hi, I’m Vijaya Lakshmi
 - 👀 I’m interested in learn and explore new things.
 - 🌱 I’m currently learning  VLSI design and verification 
 - 📫 How to reach me ...
